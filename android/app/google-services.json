@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120842483140",
+    "firebase_url": "https://expresso-cofee.firebaseio.com",
+    "project_id": "expresso-cofee",
+    "storage_bucket": "expresso-cofee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120842483140:android:e9661dea2100a680c72091",
+        "android_client_info": {
+          "package_name": "com.kuti.espresso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120842483140-rnt5piqbhjon72biak4omaf0bfsss22o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBziSXKeVmMlZjwdebj3I5hMZEjaqLz3Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120842483140-rnt5piqbhjon72biak4omaf0bfsss22o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
